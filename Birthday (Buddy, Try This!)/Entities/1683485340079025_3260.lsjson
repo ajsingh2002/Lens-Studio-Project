@@ -1,0 +1,79 @@
+{
+    "1683485340043205:3249": {
+        "IFileManager": {
+            "path": "Files/File_1683485340043205_3249.pvr"
+        }
+    },
+    "1683485340079025:3260": {
+        "IResourceController": {
+            "name": "Buddy, Try This! 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683485340081323:3261",
+            "fileId": "1683485340043205:3249",
+            "originalId": "1683485340082710:3266",
+            "publicId": "1683485340419045:3313",
+            "expected_hash": "e31855f4e190c82f702df2f44b60ece5",
+            "additional": {
+                "originHash": "037c1dedf61cc66f4ddb6f7c6150b809"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683485340081323:3261",
+            "name": "Files/File_1683485340043205_3249.png",
+            "flags": 1
+        }
+    },
+    "1683485340081323:3261": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "037c1dedf61cc66f4ddb6f7c6150b809"
+                    },
+                    "v": "1683485393302842:19050"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2000000",
+                "compressedSize": "122916",
+                "extension": "png",
+                "originalRAM": "16000000",
+                "originalSize": "241144",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683485340182218:3274"
+        }
+    },
+    "1683485340082710:3266": {
+        "IFileManager": {
+            "path": "Files/File_1683485340082710_3266.png"
+        }
+    },
+    "1683485340182218:3274": {
+        "IFileManager": {
+            "path": "Files/File_1683485340182218_3274.png"
+        }
+    },
+    "1683485340419045:3313": {
+        "IResourceController": {
+            "public": {
+                "path": "Buddy, Try This! 2.png",
+                "hash": "037c1dedf61cc66f4ddb6f7c6150b809"
+            }
+        }
+    },
+    "1683485393302842:19050": {
+        "IFileManager": {
+            "path": "Files/File_1683485393302842_19050.pvr"
+        }
+    }
+}
